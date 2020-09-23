@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
    // kindly use appropriate data types for your declaration
-   // declare variables days the debtor defaulted, amount the debtor is to pay per day, amount the debtor is to pay and assign values to them
+   // declare variables days the debtor defaulted, amount the debtor is to pay per day, amount the debtor is to pay, amount the debtor paid and assign values to them
    
    //Declare the variable of the total amount the debtor is to pay, the days the debtor paid for, amount the debtor is left to pay, days the debtor has not payed for
 
