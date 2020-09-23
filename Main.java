@@ -1,9 +1,21 @@
 class Main {
   public static void main(String[] args) {
+   // kindly use appropriate data types for your declaration
+   // declare variables days the debtor defaulted, amount the debtor is to pay per day, amount the debtor is to pay and assign values to them
    
-   // declare variables daysDefaulted, amountPayablePerDay, amountPaid
+   //Declare the variable of the total amount the debtor is to pay, the days the debtor paid for, amount the debtor is left to pay, days the debtor has not payed for
 
-   //
+   // calculate and print total amount the debtor is to pay
+
+   // calculate the days the debtor paid for
+  
+  // calculate the amount whose day was not captured because the amount was incomplete
+
+   // calculate amount the debtor is left to pay
+
+   // calculate days the debtor has not payed for
+
+   //kindly remove the statement below when you are done with the assignment
     System.out.println("Hello world!");
   }
 }
