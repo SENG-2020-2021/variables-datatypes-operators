@@ -7,13 +7,13 @@ class Main {
 
    // calculate and print total amount the debtor is to pay
 
-   // calculate the days the debtor paid for
+   // calculate and print the days the debtor paid for
   
-  // calculate the amount whose day was not captured because the amount was incomplete
+  // calculate and print the amount whose day was not captured because the amount was incomplete
 
-   // calculate amount the debtor is left to pay
+   // calculate and print amount the debtor is left to pay
 
-   // calculate days the debtor has not payed for
+   // calculate and print days the debtor has not payed for
 
    //kindly remove the statement below when you are done with the assignment
     System.out.println("Hello world!");
