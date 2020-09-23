@@ -6,7 +6,7 @@ You have been employed as a developer in a micro finance back who give loans, in
 Challenges often faced by the banks are:
 - [ ] sum up the amount of the previous days the individual as defaulted
 - [ ] calculate how many days the debtor paid for based on the amount paid
-- [ ] calculate if there was a payment for a day but was incomplete
+- [ ] calculate if there was an extra day whose payment was incomplete
 - [ ] calculate the amount the debtor is left to pay
 - [ ] calculate how many days the debtor has not payed for
 
